@@ -1,0 +1,14 @@
+{
+  "name": "crypt",
+  "version": "1.0.0",
+  "description": "A module to encrypt/decrypt plain text",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvain",
+  "license": "ISC"
+}
